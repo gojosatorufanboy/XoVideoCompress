@@ -1,4 +1,4 @@
-# https://github.com/1Danish-00/CompressorQueue/blob/main/License> .
+# https://github.com/1n/License> .
 
 import logging
 import asyncio
