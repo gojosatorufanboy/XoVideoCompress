@@ -40,6 +40,7 @@ async def zylern(event):
 /clear - __Clear Queued Files__
 /showthumb - __Show Current Thumbnail__
 /cmds - __List Available Commands__
+/buy - __cont owenr__
 """
     )
 
